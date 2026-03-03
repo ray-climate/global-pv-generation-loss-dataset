@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the Zenodo dataset and this repository."
+title: "PV Dataset Examples and Reproducible Results"
+type: software
+license: MIT
+repository-code: "https://github.com/<owner>/<repo>"
+authors:
+  - family-names: Song
+    given-names: Rui
+    affiliation: University of Oxford
+  - family-names: Yin
+    given-names: Feng
+    affiliation: University College London
+  - family-names: Muller
+    given-names: Jan-Peter
+    affiliation: University College London
+  - family-names: Povey
+    given-names: Adam C.
+    affiliation: University of Leicester
+  - family-names: Swain
+    given-names: Basudev
+    affiliation: University of Oxford
+  - family-names: Huang
+    given-names: Chenchen
+    affiliation: University of Bath
+  - family-names: Grainger
+    given-names: Roy G.
+    affiliation: University of Oxford
+preferred-citation:
+  type: dataset
+  title: "Global PV facility inventory associated with 'Coal plants persist as a large barrier to the global solar energy transition'"
+  url: "https://zenodo.org/records/18794231"
+  doi: "10.5281/zenodo.18794231"
+  publisher: "Zenodo"
+  authors:
+    - family-names: Song
+      given-names: Rui
+    - family-names: Yin
+      given-names: Feng
+    - family-names: Muller
+      given-names: Jan-Peter
+    - family-names: Povey
+      given-names: Adam C.
+    - family-names: Swain
+      given-names: Basudev
+    - family-names: Huang
+      given-names: Chenchen
+    - family-names: Grainger
+      given-names: Roy G.

@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "upload_type": "dataset",
+    "title": "CSV datasets and reproducible examples for global PV aerosol-loss analysis",
+    "description": "Draft metadata for a CSV-only repository accompanying the paper. Includes global PV facility inventory CSV, yearly PV generation-loss CSV files, and example scripts to reproduce selected aggregated results.",
+    "keywords": [
+      "solar photovoltaic",
+      "aerosol loss",
+      "dataset examples",
+      "reproducibility",
+      "csv"
+    ],
+    "language": "eng",
+    "version": "v0-draft"
+  }
+}

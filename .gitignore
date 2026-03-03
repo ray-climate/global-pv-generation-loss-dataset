@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# OS and editor
+.DS_Store
+.vscode/
+.idea/
+.claude/
+
+# Build/test artifacts
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Generated outputs
+outputs/figures/*
+outputs/tables/*
+
+# Keep output placeholders
+!outputs/figures/.gitkeep
+!outputs/figures/*.png
+!outputs/figures/*.pdf
+!outputs/tables/.gitkeep
