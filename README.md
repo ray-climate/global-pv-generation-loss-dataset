@@ -1,5 +1,18 @@
 # Coal plants persist as a large barrier to the global solar energy transition - Dataset
 
+[![Live Dashboard](https://img.shields.io/badge/%F0%9F%8C%90%20Live%20Dashboard-pvfacilitymap.uk-2ea44f?style=for-the-badge)](https://pvfacilitymap.uk/)
+[![Dataset DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.18794231-1682d4?style=for-the-badge)](https://zenodo.org/records/18794231)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+## Interactive Dashboard
+Explore the facility-level PV generation and aerosol-loss dataset interactively at **[pvfacilitymap.uk](https://pvfacilitymap.uk/)**.
+
+<a href="https://pvfacilitymap.uk/">
+  <img src="docs/dashboard_preview.png" alt="Preview of the pvfacilitymap.uk interactive dashboard — click to open" width="100%">
+</a>
+
+> Click the preview to open the live dashboard in a new tab. The dashboard complements this repository: this repo provides the raw data and reproducible scripts, while the dashboard offers a visual, exploratory entry point.
+
 ## Overview
 This repository provides example code and reproducible plotting workflows for the global facility-level solar PV dataset associated with the manuscript:
 
